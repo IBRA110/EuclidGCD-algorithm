@@ -1,6 +1,6 @@
 # EuclidgGCD algorithm
 
-## Just run it 
+https://en.wikipedia.org/wiki/Euclidean_algorithm
 
 # .NET Samples
 
